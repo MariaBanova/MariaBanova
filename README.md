@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Maria Banova.</h1>
+<h1 align="center">Hi 👋, My name is Maria Banova.</h1>
 <h3 align="center">I'm currently studying in SoftUni.</h3>
 
 - 🌱 I’m learning **C#.**
